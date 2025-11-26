@@ -23,6 +23,5 @@ $ create-repository --name my-new-project --description "That's all I have to sa
 ## License
 
 MIT
-[لقطة نصّية]
-📁 caissettes_royal/
+
    
